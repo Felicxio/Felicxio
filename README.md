@@ -4,11 +4,11 @@
 
 **[PTBR]** 
 
-Engenheiro Mecatrônico formado pela UFU, com foco em Engenharia de Dados. Experiência com Python, SQL, APIs e pipelines de dados, além de projetos em Machine Learning e Deep Learning. Em busca de oportunidade como Data Engineer Trainee ou Júnior.
+Engenheiro Mecatrônico formado pela UFU, com foco em Engenharia de Dados. Experiência com Python, SQL, APIs e pipelines de dados, além de projetos em Machine Learning e Deep Learning. Em busca de oportunidade como Data/Machine Learning Engineer Trainee ou Júnior.
 
 **[EN]**
 
-Mechatronics Engineer graduated from UFU, focused on Data Engineering. Experience with Python, SQL, APIs, and data pipelines, as well as projects in Machine Learning and Deep Learning. Seeking a Data Engineer Trainee or Junior role.
+Mechatronics Engineer graduated from UFU, focused on Data Engineering. Experience with Python, SQL, APIs, and data pipelines, as well as projects in Machine Learning and Deep Learning. Seeking a Data/Machine Learning Engineer Trainee or Junior role.
 
 ---
 
