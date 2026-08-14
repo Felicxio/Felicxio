@@ -7,6 +7,7 @@
 Engenheiro Mecatrônico formado pela UFU e mestrando em Engenharia Mecânica na área de Mecatrônica pela EESC-USP. Atualmente trabalhando com Robótica, com interesse em visão computacional, Machine Learning e integração de sistemas robóticos. Explorando ROS 2 e desenvolvendo projetos que conectam IA, programação e aplicações práticas em robótica.
 
 **[EN]**
+
 Mechatronics Engineer graduated from UFU and Master's student in Mechanical Engineering, with a focus on Mechatronics, at EESC-USP. Currently working with Robotics, with interests in computer vision, Machine Learning, and robotic system integration. Exploring ROS 2 and developing projects that connect AI, programming, and practical robotics applications.
 
 ---
