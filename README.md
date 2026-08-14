@@ -1,14 +1,13 @@
 # 👨🏻‍💻 João Victor Assunção
 
-**`Engenheiro Mecatrônico/Engenheiro de Dados`**
+**`Engenheiro Mecatrônico`**
 
 **[PTBR]** 
 
-Engenheiro Mecatrônico formado pela UFU, com foco em Engenharia de Dados. Experiência com Python, SQL, APIs e pipelines de dados, além de projetos em Machine Learning e Deep Learning. Em busca de oportunidade como Data/Machine Learning Engineer Trainee ou Júnior.
+Engenheiro Mecatrônico formado pela UFU e mestrando em Engenharia Mecânica na área de Mecatrônica pela EESC-USP. Atualmente trabalhando com Robótica, com interesse em visão computacional, Machine Learning e integração de sistemas robóticos. Explorando ROS 2 e desenvolvendo projetos que conectam IA, programação e aplicações práticas em robótica.
 
 **[EN]**
-
-Mechatronics Engineer graduated from UFU, focused on Data Engineering. Experience with Python, SQL, APIs, and data pipelines, as well as projects in Machine Learning and Deep Learning. Seeking a Data/Machine Learning Engineer Trainee or Junior role.
+Mechatronics Engineer graduated from UFU and Master's student in Mechanical Engineering, with a focus on Mechatronics, at EESC-USP. Currently working with Robotics, with interests in computer vision, Machine Learning, and robotic system integration. Exploring ROS 2 and developing projects that connect AI, programming, and practical robotics applications.
 
 ---
 
